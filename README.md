@@ -16,3 +16,5 @@ licences.  I've used the MIT license version with now problems.  Invoke the jar 
    java -jar /path to jar/plantuml.jar -tsvg <path to diagram.uml file>
 
 It will output the svg file in the same directory as diagram.svg.
+
+This code is extremely ALPHA and was slammed together for this use case.
